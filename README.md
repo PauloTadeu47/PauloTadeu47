@@ -29,9 +29,6 @@
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulotadeu&show_icons=true&theme=gotham)
 
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/paulotadeu/assets/imagen-projeto.gif" alt="Project Image">
-</p>
+
 
 
